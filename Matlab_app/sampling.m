@@ -1,0 +1,1 @@
+%vyzkoušet si downsampling bez fitlrace DP a pak s filtrací
