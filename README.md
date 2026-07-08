@@ -51,4 +51,4 @@ V současné verzi se pro čištění signálu nepoužívá žádný aktivní fi
 
 ## Živá ukázka
 
-[![Ukázka detekce DTMF](ziva_ukazka.mp4)](ziva_ukazka.mp4)
+<video src="ziva_ukazka.mp4" width="100%" controls></video>
