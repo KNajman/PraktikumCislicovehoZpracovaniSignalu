@@ -52,4 +52,4 @@ V současné verzi se pro čištění signálu nepoužívá žádný aktivní fi
 ## Živá ukázka
 
 <video src="ziva_ukazka.mp4" width="100%" controls></video>
-[![Ukázka dekódování DTMF](ziva_ukazka.png)](ziva_ukazka.mp4)
+[![Ukázka dekódování DTMF](ziva_ukazka.gif)](ziva_ukazka.gif)
